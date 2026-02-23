@@ -8,9 +8,7 @@ export default function SocialProof() {
       <div className="mx-auto max-w-7xl px-6">
         <div className="rounded-3xl border border-slate-200 bg-white/70 backdrop-blur p-6 shadow-sm">
           <div className="text-center">
-            <p className="text-xs font-semibold tracking-wide text-slate-600">
-              Scelto dai migliori team di vendita B2B
-            </p>
+            <p className="text-sm text-accent uppercase tracking-wider font-bold">Accesso immediato a milioni di lead B2B profilati in tempo reale</p>
           </div>
 
           <div className="mt-6 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-x-10 gap-y-6 items-center justify-items-center">
